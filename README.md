@@ -37,15 +37,15 @@ Here are some ideas to get you started:
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" />  
 <img style="margin: 10px" src="https://e7.pngegg.com/pngimages/391/430/png-clipart-bootstrap-full-logo-tech-companies-thumbnail.png" alt="Bootstrap" height="50" />  
-<img style="margin: 10px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JQuery.svg" alt="JQuery" height="50" />  
+<img style="margin: 10px" src="https://w7.pngwing.com/pngs/265/442/png-transparent-jquery-ui-javascript-web-browser-pasargad-text-trademark-logo-thumbnail.png" alt="JQuery" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/d3js-original.svg" alt="D3.js" height="50" />  
 <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" alt="Redux" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="50" />  
 <img style="margin: 10px" src="https://www.svgrepo.com/show/303440/gulp-logo.svg" alt="Gulp" height="50" />  
-<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/socketio/socketio-ar21.svg" alt="Socket.io" height="40" />  
-<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/sentryio/sentryio-ar21.png" alt="Sentry" height="40" />
-<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/figma/figma-ar21.png" alt="Figma" height="35" /> 
+<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/socketio/socketio-ar21.svg" alt="Socket.io" height="50" />  
+<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/sentryio/sentryio-ar21.png" alt="Sentry" height="50" />
+<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/figma/figma-ar21.png" alt="Figma" height="40" /> 
 <img style="margin: 10px" src="https://img.uxwing.com/wp-content/themes/uxwing/download/web-app-development/apple-iphone-app-icon.svg" alt="Apple" height="50" /> 
 <img style="margin: 10px" src="https://img.uxwing.com/wp-content/themes/uxwing/download/web-app-development/android-app-icon.svg" alt="Android" height="50" />  
 
@@ -57,9 +57,11 @@ Here are some ideas to get you started:
 
 ### Backend  
 <div align="center">
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
+
+<img style="margin: 10px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZZcC9FFlFDytwryOqdx84Afu3kwPziWBfUw&usqp=CAU" alt="Node.js" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
+<img style="margin: 10px" src="https://w7.pngwing.com/pngs/1007/564/png-transparent-java-script-logo-javascript-web-development-logo-script-text-computer-programming-internet-thumbnail.png" alt="JavaScript" height="50" />  
+  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".Net" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nestjs.svg" alt="NestJS" height="50" />  
