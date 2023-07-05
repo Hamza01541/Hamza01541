@@ -43,9 +43,10 @@ Here are some ideas to get you started:
 <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" alt="Redux" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="50" />  
 <img style="margin: 10px" src="https://www.svgrepo.com/show/303440/gulp-logo.svg" alt="Gulp" height="50" />  
-<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/socketio/socketio-ar21.svg" alt="Socket.io" height="50" />  
-<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/sentryio/sentryio-ar21.png" alt="Sentry" height="50" />
+<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/socketio/socketio-ar21.svg" alt="Socket.io" height="40" />  
+<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/sentryio/sentryio-ar21.png" alt="Sentry" height="40" />
 <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/figma/figma-ar21.png" alt="Figma" height="40" /> 
+  <img style="margin: 10px" src="https://w7.pngwing.com/pngs/828/432/png-transparent-npm-node-js-computer-icons-computer-software-installation-others-text-rectangle-logo.png" alt="Npm" height="40" /> 
 <img style="margin: 10px" src="https://img.uxwing.com/wp-content/themes/uxwing/download/web-app-development/apple-iphone-app-icon.svg" alt="Apple" height="50" /> 
 <img style="margin: 10px" src="https://img.uxwing.com/wp-content/themes/uxwing/download/web-app-development/android-app-icon.svg" alt="Android" height="50" />  
 
