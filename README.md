@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" />  
-<img style="margin: 10px" src="https://e7.pngegg.com/pngimages/391/430/png-clipart-bootstrap-full-logo-tech-companies-thumbnail.png" alt="Bootstrap" height="50" />  
+<img style="margin: 10px" src="https://e7.pngegg.com/pngimages/391/430/png-clipart-bootstrap-full-logo-tech-companies-thumbnail.png" alt="Bootstrap" height="50" />
 <img style="margin: 10px" src="https://w7.pngwing.com/pngs/265/442/png-transparent-jquery-ui-javascript-web-browser-pasargad-text-trademark-logo-thumbnail.png" alt="JQuery" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/d3js-original.svg" alt="D3.js" height="50" />  
@@ -48,7 +48,6 @@ Here are some ideas to get you started:
 <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/sentryio/sentryio-ar21.png" alt="Sentry" height="40" />
 <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/socketio/socketio-ar21.svg" alt="Socket.io" height="40" />  
 <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/figma/figma-ar21.png" alt="Figma" height="40" /> 
-
 <img style="margin: 10px" src="https://img.uxwing.com/wp-content/themes/uxwing/download/web-app-development/apple-iphone-app-icon.svg" alt="Apple" height="50" /> 
 <img style="margin: 10px" src="https://img.uxwing.com/wp-content/themes/uxwing/download/web-app-development/android-app-icon.svg" alt="Android" height="50" />  
 
@@ -64,7 +63,6 @@ Here are some ideas to get you started:
 <img style="margin: 10px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZZcC9FFlFDytwryOqdx84Afu3kwPziWBfUw&usqp=CAU" alt="Node.js" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />
 <img style="margin: 10px" src="https://w7.pngwing.com/pngs/1007/564/png-transparent-java-script-logo-javascript-web-development-logo-script-text-computer-programming-internet-thumbnail.png" alt="JavaScript" height="50" />  
-  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".Net" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nestjs.svg" alt="NestJS" height="50" />  
@@ -72,12 +70,12 @@ Here are some ideas to get you started:
 <img style="margin: 10px" src="https://seeklogo.com/images/P/postman-api-platform-logo-D6B8AB9B0D-seeklogo.com.png" alt="Postman" height="50" />  
 <img style="margin: 10px" src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/mysql-icon.png" alt="MySQL" height="40" />  
 <img style="margin: 10px" src="https://cdn.iconscout.com/icon/free/png-256/free-mongodb-3-1175138.png" alt="MongoDB" height="50" />    
-
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />  
 <img style="margin: 10px" src="https://ih1.redbubble.net/image.489553241.2202/st,small,845x845-pad,1000x1000,f8f8f8.u1.jpg" alt="Firebase" height="60" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" />  
-<img style="margin: 10px" src="https://www.kindpng.com/picc/m/441-4419401_twilio-logo-png-transparent-png.png" alt="Twilio" height="50" />
 <img style="margin: 10px" src="https://ih1.redbubble.net/image.404020079.1876/st,small,507x507-pad,600x600,f8f8f8.u7.jpg" alt="Jest" height="60" />  
+<img style="margin: 10px" src="https://www.kindpng.com/picc/m/441-4419401_twilio-logo-png-transparent-png.png" alt="Twilio" height="50" />
+<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Stripe_Logo%2C_revised_2016.svg/360px-Stripe_Logo%2C_revised_2016.svg.png" alt="Stripe" height="50" />
 
 </div>
 
