@@ -48,6 +48,9 @@ Here are some ideas to get you started:
 <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/sentryio/sentryio-ar21.png" alt="Sentry" height="40" />
 <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/socketio/socketio-ar21.svg" alt="Socket.io" height="40" />  
 <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/figma/figma-ar21.png" alt="Figma" height="40" /> 
+<img style="margin: 10px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyYPIT5IiMgmHQPTKrAN3KPhQYLaYYySA_eWcgdGDm_jrl61AV3cNE5PxP0nOYeVPuBP4&usqp=CAU" alt="Android" height="50" />  
+
+
 <img style="margin: 10px" src="https://img.uxwing.com/wp-content/themes/uxwing/download/web-app-development/apple-iphone-app-icon.svg" alt="Apple" height="50" /> 
 <img style="margin: 10px" src="https://img.uxwing.com/wp-content/themes/uxwing/download/web-app-development/android-app-icon.svg" alt="Android" height="50" />  
 
