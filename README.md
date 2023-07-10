@@ -76,7 +76,9 @@ Here are some ideas to get you started:
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" />  
 <img style="margin: 10px" src="https://ih1.redbubble.net/image.404020079.1876/st,small,507x507-pad,600x600,f8f8f8.u7.jpg" alt="Jest" height="60" />  
 <img style="margin: 10px" src="https://www.kindpng.com/picc/m/441-4419401_twilio-logo-png-transparent-png.png" alt="Twilio" height="50" />
-<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Stripe_Logo%2C_revised_2016.svg/360px-Stripe_Logo%2C_revised_2016.svg.png" alt="Stripe" height="50" />
+
+<br>
+<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Stripe_Logo%2C_revised_2016.svg/360px-Stripe_Logo%2C_revised_2016.svg.png" alt="Stripe" height="60" />
 
 </div>
 
@@ -98,6 +100,9 @@ Here are some ideas to get you started:
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="Gitlab" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/elasticsearch.png" alt="Elasticsearch" height="50" /> 
+
+<br>
+<img style="margin: 10px" src="https://www.ssa.group/wp-content/uploads/2020/12/Group-3223-1.svg" height="70" /> 
 
 </div>
 
