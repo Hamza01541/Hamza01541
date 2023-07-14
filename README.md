@@ -49,8 +49,7 @@ Here are some ideas to get you started:
 <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/figma/figma-ar21.png" alt="Figma" height="40" /> 
 <img style="margin: 10px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ4EDPUhgagil5oCP0bdHp2ZJ3QW6YBmbLCCdfo0VZxyoiQMPmxOo842UzrapGM_6UxHI&usqp=CAU" alt="GoogleMap" height="50" />    
 <img style="margin: 10px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyYPIT5IiMgmHQPTKrAN3KPhQYLaYYySA_eWcgdGDm_jrl61AV3cNE5PxP0nOYeVPuBP4&usqp=CAU" alt="Web" height="50" />  
-<img style="margin: 10px" src="https://img.uxwing.com/wp-content/themes/uxwing/download/web-app-development/apple-iphone-app-icon.svg" alt="Apple" height="50" /> 
-<img style="margin: 10px" src="https://img.uxwing.com/wp-content/themes/uxwing/download/web-app-development/android-app-icon.svg" alt="Android" height="50" />  
+<img style="margin: 10px" src="https://icon-library.com/images/android-mobile-icon/android-mobile-icon-29.jpg" alt="Mobile" height="50" />  
 
 </div>
 
