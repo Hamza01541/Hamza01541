@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 -->
 
 
-- 🌱 I’m currently learning aerial image processing
+- 🌱 I’m currently learning aerial image processing.
 - 🗣 I speak English fluently.
-- ❓ Ask me about anything related to MEAN and MERN stack and related technologies
-- ⚡ Fun fact: I use tabs over spaces
+- ❓ Ask me about anything related to MEAN and MERN stack and related technologies.
+- ⚡ Fun fact: i am fond of road trips.
 
 <br/>  
 
