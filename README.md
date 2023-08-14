@@ -65,7 +65,10 @@ Here are some ideas to get you started:
 <img style="margin: 10px" src="https://w7.pngwing.com/pngs/1007/564/png-transparent-java-script-logo-javascript-web-development-logo-script-text-computer-programming-internet-thumbnail.png" alt="JavaScript" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".Net" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nestjs.svg" alt="NestJS" height="50" />  
+<img style="margin: 10px" src="https://www.aalpha.net/wp-content/uploads/2023/05/nest-js-logo.png" alt="NestJS" height="50" />  
+
+
+
 <img style="margin: 10px" src="https://graphql.org/img/brand/logos/logo-stacked.svg" alt="GraphQL" height="50" />  
 <img style="margin: 10px" src="https://seeklogo.com/images/P/postman-api-platform-logo-D6B8AB9B0D-seeklogo.com.png" alt="Postman" height="50" />  
 <img style="margin: 10px" src="https://d1.awsstatic.com/asset-repository/products/amazon-rds/1024px-MySQL.ff87215b43fd7292af172e2a5d9b844217262571.png" alt="MySQL" height="40" />  
