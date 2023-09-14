@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-- 🌱 I’m currently learning Leafet Map Layering and Aerial image processing.
+- 🌱 I’m currently learning Leafet Map Layering and Drone Aerial image processing.
 - 🗣 I speak English fluently.
 - ❓ Ask me about anything related to MEAN and MERN stack and related technologies.
 - ⚡ Fun fact: I am fond of road trips.
