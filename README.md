@@ -119,12 +119,12 @@ Here are some ideas to get you started:
 <img src=https://img.icons8.com/?size=1x&id=P7UIlhbpWzZm&format=png alt=Gmail />
 </a>
 
-<a href="https://github.com/Hamza01541" target="_blank" style="margin-top: 15px;">
+<a href="https://github.com/Hamza01541" target="_blank" style="margin-top: 15px; marging-left:50px;">
 <img src="https://static.vecteezy.com/system/resources/previews/016/833/880/original/github-logo-git-hub-icon-with-text-on-white-background-free-vector.jpg" alt="Github" height="50" />
 </a>
 
 
-<a href="https://www.upwork.com/fl/~018777e30e743c2277" target="_blank" style="margin-top: 15px;">
+<a href="https://www.upwork.com/fl/~018777e30e743c2277" target="_blank" style="margin-top: 15px; marging-left:50px;">
 <img src="https://logos-world.net/wp-content/uploads/2021/04/Upwork-Logo-1-500x281.png" height="50" />
 </a>
 
