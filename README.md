@@ -13,18 +13,19 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- ❓ 🥅
 -->
 
 
-- 🌱 I’m currently learning Leafet Map Layering and Drone Aerial image processing.
+<!-- - 🌱 I’m currently learning Leafet Map Layering and Drone Aerial image processing. -->
 - 🗣 I speak English fluently.
 - 🎓 Advanced JavaScript Certified Expert
-- ❓  Ask me about anything related to Web, Mobile and DevOps related technologies.
+- 💬  Ask me about anything related to Web, Mobile and DevOps related technologies.
 - 🤝 I'm open to collaborating on anything you may need help with
-- 🥅 Goals: Contribute more to interesting projects
+- 🚩 Goals: Contribute more to interesting projects
 - 🧠 I'm learning in-depth DevOps Solutions and Services
 - ⚡ Fun fact: I am fond of road trips.
-- ✉️ You can contact me at [hamza01541@gmail.com](mailto:hamza01541@gmail.com)
+- 📫 You can contact me at: [hamza01541@gmail.com](mailto:hamza01541@gmail.com)
 
 <br/>  
 
