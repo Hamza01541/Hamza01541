@@ -82,7 +82,7 @@ Here are some ideas to get you started:
 <img style="margin: 10px" src="https://ih1.redbubble.net/image.489553241.2202/st,small,845x845-pad,1000x1000,f8f8f8.u1.jpg" alt="Firebase" height="60" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" />  
 <img style="margin: 10px" src="https://ih1.redbubble.net/image.404020079.1876/st,small,507x507-pad,600x600,f8f8f8.u7.jpg" alt="Jest" height="60" />  
-<img style="margin: 10px" src="https://www.kindpng.com/picc/m/441-4419401_twilio-logo-png-transparent-png.png" alt="Twilio" height="50" />
+<img style="margin: 10px" src="https://mir-s3-cdn-cf.behance.net/projects/404/5baa8a153342817.Y3JvcCwxOTk5LDE1NjQsMCwyMTc.png" alt="Twilio" height="50" />
 
 <br>
 <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Stripe_Logo%2C_revised_2016.svg/360px-Stripe_Logo%2C_revised_2016.svg.png" alt="Stripe" height="60" />
