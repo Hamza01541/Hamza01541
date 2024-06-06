@@ -19,8 +19,9 @@ Here are some ideas to get you started:
 
 <!-- - 🌱 I’m currently learning Leafet Map Layering and Drone Aerial image processing. -->
 - 🗣 I speak English fluently.
-- 🎓 Advanced JavaScript Certified Expert
-- 💬  Ask me about anything related to Web, Mobile and DevOps related technologies.
+- 🎓 Bachelor of Computer Science
+- 📜 Advanced JavaScript Certified Expert
+- 💬 Ask me about anything related to Web, Mobile and DevOps related technologies.
 - 🤝 I'm open to collaborating on anything you may need help with
 - 🚩 Goals: Contribute more to interesting projects
 - 🧠 I'm learning in-depth DevOps Solutions and Services
