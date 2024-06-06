@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="50" />  
 <img style="margin: 10px" src="https://www.svgrepo.com/show/303440/gulp-logo.svg" alt="Gulp" height="50" />
 <img style="margin: 10px" src="https://w7.pngwing.com/pngs/828/432/png-transparent-npm-node-js-computer-icons-computer-software-installation-others-text-rectangle-logo.png" alt="Npm" height="40" /> 
-<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/sentryio/sentryio-ar21.png" alt="Sentry" height="40" />
+<img style="margin: 10px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/sentryio_logo_icon_169762.png" alt="Sentry" height="40" />
 <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/socketio/socketio-ar21.svg" alt="Socket.io" height="40" />  
 <img style="margin: 10px" src="https://w7.pngwing.com/pngs/648/190/png-transparent-figma-logo-tech-companies.png" alt="Figma" height="40" /> 
 <img style="margin: 10px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ4EDPUhgagil5oCP0bdHp2ZJ3QW6YBmbLCCdfo0VZxyoiQMPmxOo842UzrapGM_6UxHI&usqp=CAU" alt="GoogleMap" height="45" />    
