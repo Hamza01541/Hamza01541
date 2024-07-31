@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - 🚩 Goals: Contribute more to interesting projects
 - 🧠 I'm learning in-depth DevOps Solutions and Services
 - ⚡ Fun fact: I am fond of road trips.
-- 📫 You can contact me at: [hamza01541@gmail.com](mailto:hamza01541@gmail.com)
+- 📫 You can contact me at: [Hamza01541@gmail.com](mailto:hamza01541@gmail.com)
 
 <br/>  
 
