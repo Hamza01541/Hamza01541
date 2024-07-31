@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/77c81a90-d52c-4ce2-842d-7b7e8c40798f)### Hi there 👋
+### Hi there 👋
 
 <!--
 **Hamza01541/Hamza01541** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
