@@ -1,4 +1,4 @@
-### Hi there 👋
+![image](https://github.com/user-attachments/assets/77c81a90-d52c-4ce2-842d-7b7e8c40798f)### Hi there 👋
 
 <!--
 **Hamza01541/Hamza01541** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 <!-- - 🌱 I’m currently learning Leafet Map Layering and Drone Aerial image processing. -->
 - 🗣 I speak English fluently.
 - 🎓 Bachelor of Computer Science
-- 📜 Advanced JavaScript Certified Expert
+- 🥇 Advanced JavaScript Certified Expert
 - 💬 Ask me about anything related to Web, Mobile and DevOps related technologies.
 - 🤝 I'm open to collaborating on anything you may need help with
 - 🚩 Goals: Contribute more to interesting projects
-- 🧠 I'm learning in-depth DevOps Solutions and Services
+- 🧠 I'm passionate about learning new skills and technology
 - ⚡ Fun fact: I am fond of road trips.
 - 📫 You can contact me at: [Hamza01541@gmail.com](mailto:hamza01541@gmail.com)
 
