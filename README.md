@@ -1,5 +1,23 @@
 ### Hi there 👋
 
+I am a dedicated and results-oriented software developer with a passion for crafting efficient and elegant solutions. With 7+ years of experience in the industry, I have honed my skills in Programming Languages (e.g., C#, JavaScript and Typescript) and frameworks (e.g., React/Next, Angular, Node.js, Ionic, Aurelia, Loopback, Nest.js and .NET Framework).
+
+## My expertise includes:
+
+**Full-Stack Development:** Designing, developing, and deploying robust web applications.
+
+**Backend Development:** Building scalable and secure backend systems.
+
+**Frontend Development:** Creating user-friendly and visually appealing interfaces.
+
+**Database Design and Management:** Designing and optimizing relational and NoSQL databases.
+
+**API Development:** Developing RESTful and GraphQL APIs.
+
+**Software Testing and Debugging:** Ensuring code quality and reliability.
+I am a strong advocate for clean code, best practices, and agile development methodologies. I thrive in collaborative environments and enjoy working with clients to understand their needs and deliver exceptional results.
+
+
 <!--
 **Hamza01541/Hamza01541** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,6 +36,7 @@ Here are some ideas to get you started:
 
 
 <!-- - 🌱 I’m currently learning Leafet Map Layering and Drone Aerial image processing. -->
+
 - 🗣 I speak English fluently.
 - 🎓 Bachelor of Computer Science
 - 🥇 Advanced JavaScript Certified Expert
