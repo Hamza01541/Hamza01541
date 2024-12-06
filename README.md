@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - 🚩 Goals: Contribute more to interesting projects
 - 🧠 I'm passionate about learning new skills and technology
 - ⚡ Fun fact: I am fond of road trips.
-- 📫 You can contact me at: [Hamza01541@gmail.com](mailto:hamza01541@gmail.com)
+- 📫 Feel free to contact me at: [Hamza01541@gmail.com](mailto:hamza01541@gmail.com)
 
 <br/>  
 
@@ -55,8 +55,12 @@ Here are some ideas to get you started:
 <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/socketio/socketio-ar21.svg" alt="Socket.io" height="40" />  
 <img style="margin: 10px" src="https://w7.pngwing.com/pngs/648/190/png-transparent-figma-logo-tech-companies.png" alt="Figma" height="40" /> 
 <img style="margin: 10px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ4EDPUhgagil5oCP0bdHp2ZJ3QW6YBmbLCCdfo0VZxyoiQMPmxOo842UzrapGM_6UxHI&usqp=CAU" alt="GoogleMap" height="45" />    
-<img style="margin: 10px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyYPIT5IiMgmHQPTKrAN3KPhQYLaYYySA_eWcgdGDm_jrl61AV3cNE5PxP0nOYeVPuBP4&usqp=CAU" alt="Web" height="50" />  
+<img style="margin: 10px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/twilio_logo_icon_169400.png" alt="Twillio" height="40" />  
+  
+  <img style="margin: 10px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyYPIT5IiMgmHQPTKrAN3KPhQYLaYYySA_eWcgdGDm_jrl61AV3cNE5PxP0nOYeVPuBP4&usqp=CAU" alt="Web" height="50" />  
 <img style="margin: 10px" src="https://icon-library.com/images/android-mobile-icon/android-mobile-icon-29.jpg" alt="IOS-Android" height="45" />  
+<img style="margin: 10px" src="https://toppng.com/uploads/preview/oogle-play-icon-app-store-icon-ios-11-icons-11562873026myjyxxfvpm.png" alt="Apple App Store" height="45" />  
+<img style="margin: 10px" src="https://e7.pngegg.com/pngimages/263/349/png-clipart-google-play-logo-google-play-app-store-google-angle-text-thumbnail.png" alt="Google Play Store" height="45" />  
 
 </div>
 
@@ -103,11 +107,11 @@ Here are some ideas to get you started:
 <img style="margin: 10px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AWS-Dark.svg" alt="AWS" height="50" />  
 <img style="margin: 10px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8jTFgNkd9a0VrdOiVX2AohkyITJ_UoHPG76dVPe2XdWQ8xN0k7OmvghUcIrCVl7bBzg&usqp=CAU" alt="Azure" height="25" />  
 <img style="margin: 10px" src="https://seeklogo.com/images/A/atlassian-logo-DF2FCF6E4D-seeklogo.com.png" alt="Atlassian" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" />  
+<img style="margin: 10px" src="https://www.netscout.com/sites/default/files/2022-02/17/images/cloud-lockup-logo-500px.png" alt="GCP" height="50" />  
 <img style="margin: 10px" src="https://1000logos.net/wp-content/uploads/2024/08/Vercel-Logo-768x432.png" alt="Vercel" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />
 <img style="margin: 10px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrxA3-gKr7IQIqgSFjY1krRnUYEUJ_iY9EPhv13vo0HBypSAF5AUm3x9HLTaFtWvBYoHs&usqp=CAU" alt="DigitalOcean" height="50" /> 
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="Gitlab" height="50" />
+<img style="margin: 10px" src="https://w7.pngwing.com/pngs/881/310/png-transparent-gitlab-original-wordmark-logo-icon-thumbnail.png" alt="Gitlab" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/elasticsearch.png" alt="Elasticsearch" height="50" /> 
   <img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/linode.svg" alt="Linode" height="40" /> 
 <br>
