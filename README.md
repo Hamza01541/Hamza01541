@@ -104,11 +104,12 @@ Here are some ideas to get you started:
 <img style="margin: 10px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8jTFgNkd9a0VrdOiVX2AohkyITJ_UoHPG76dVPe2XdWQ8xN0k7OmvghUcIrCVl7bBzg&usqp=CAU" alt="Azure" height="25" />  
 <img style="margin: 10px" src="https://seeklogo.com/images/A/atlassian-logo-DF2FCF6E4D-seeklogo.com.png" alt="Atlassian" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" />  
-<img style="margin: 10px" src="https://d3r49iyjzglexf.cloudfront.net/circleci-logo-stacked-fb-657e221fda1646a7e652c09c9fbfb2b0feb5d710089bb4d8e8c759d37a832694.png" alt="CircleCi" height="60" />  
+<img style="margin: 10px" src="https://1000logos.net/wp-content/uploads/2024/08/Vercel-Logo-768x432.png" alt="Vercel" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />
 <img style="margin: 10px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrxA3-gKr7IQIqgSFjY1krRnUYEUJ_iY9EPhv13vo0HBypSAF5AUm3x9HLTaFtWvBYoHs&usqp=CAU" alt="DigitalOcean" height="50" /> 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="Gitlab" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/elasticsearch.png" alt="Elasticsearch" height="50" /> 
+  <img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/linode.svg" alt="Linode" height="40" /> 
 <br>
 <img style="margin: 10px" src="https://www.ssa.group/wp-content/uploads/2020/12/Group-3223-1.svg" height="70" /> 
 
