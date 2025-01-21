@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a dedicated and results-oriented software developer with a passion for crafting efficient and elegant solutions. With 7+ years of experience in the industry, I have honed my skills in Programming Languages (e.g., C#, JavaScript and Typescript) and frameworks (e.g., React/Next, Angular, Node.js, Ionic, Aurelia, Loopback, Nest.js and .NET Framework).
+As a dedicated and results-oriented software developer with over 7 years of experience, I specialize in creating efficient, scalable, and user-centric solutions. I have extensive expertise in a wide range of technologies, including programming languages such as C#, JavaScript, and TypeScript. I am proficient in leveraging modern frameworks like React/Next, Angular, Node.js, Ionic, Aurelia, Loopback, Nest.js, and the .NET Framework to build robust applications. My focus is on writing clean, maintainable code while staying up-to-date with the latest industry trends to deliver high-quality software that drives business success.
 
 ## My expertise includes:
 
@@ -100,7 +100,7 @@ Here are some ideas to get you started:
 
 
 <img style="margin: 10px" src="https://graphql.org/img/brand/logos/logo-stacked.svg" alt="GraphQL" height="50" />  
-<img style="margin: 10px" src="https://seeklogo.com/images/P/postman-api-platform-logo-D6B8AB9B0D-seeklogo.com.png" alt="Postman" height="50" />  
+<img style="margin: 10px" src="https://w7.pngwing.com/pngs/877/217/png-transparent-postman-logo-tech-companies.png" alt="Postman" height="50" />  
 <img style="margin: 10px" src="https://d1.awsstatic.com/asset-repository/products/amazon-rds/1024px-MySQL.ff87215b43fd7292af172e2a5d9b844217262571.png" alt="MySQL" height="40" />  
 <img style="margin: 10px" src="https://cdn.iconscout.com/icon/free/png-256/free-mongodb-3-1175138.png" alt="MongoDB" height="50" />    
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />  
@@ -125,7 +125,7 @@ Here are some ideas to get you started:
 <img style="margin: 10px" src="https://pngset.com/images/github-logo-label-text-symbol-transparent-png-2425199.png" alt="GitHub" height="50" />
 <img style="margin: 10px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AWS-Dark.svg" alt="AWS" height="50" />  
 <img style="margin: 10px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8jTFgNkd9a0VrdOiVX2AohkyITJ_UoHPG76dVPe2XdWQ8xN0k7OmvghUcIrCVl7bBzg&usqp=CAU" alt="Azure" height="25" />  
-<img style="margin: 10px" src="https://seeklogo.com/images/A/atlassian-logo-DF2FCF6E4D-seeklogo.com.png" alt="Atlassian" height="50" />  
+<img style="margin: 10px" src="https://www.bdq.cloud/hs-fs/hubfs/Atlassian-vertical-blue@2x-rgb.png?width=401&height=446&name=Atlassian-vertical-blue@2x-rgb.png" alt="Atlassian" height="50" />  
 <img style="margin: 10px" src="https://www.netscout.com/sites/default/files/2022-02/17/images/cloud-lockup-logo-500px.png" alt="GCP" height="50" />  
 <img style="margin: 10px" src="https://1000logos.net/wp-content/uploads/2024/08/Vercel-Logo-768x432.png" alt="Vercel" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />
