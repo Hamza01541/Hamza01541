@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
 <img style="margin: 10px" src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,q_auto/v1/gcs/platform-data-goog/events/Screenshot%202022-12-11%20at%207.10.40%20PM.png" alt="Angular" height="50" />
-<img style="margin: 10px" src="https://www.aalpha.net/wp-content/uploads/2020/01/ionic.png" alt="Ionic" height="50" />
+<img style="margin: 10px" src="https://icon.icepanel.io/Technology/svg/Ionic.svg" alt="Ionic" height="45" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" />  
@@ -76,6 +76,7 @@ Here are some ideas to get you started:
 <img style="margin: 10px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ4EDPUhgagil5oCP0bdHp2ZJ3QW6YBmbLCCdfo0VZxyoiQMPmxOo842UzrapGM_6UxHI&usqp=CAU" alt="GoogleMap" height="45" />    
   <img style="margin: 10px" src="https://mir-s3-cdn-cf.behance.net/projects/404/5baa8a153342817.Y3JvcCwxOTk5LDE1NjQsMCwyMTc.png" alt="Twilio" height="50" />
 
+<br>
   <img style="margin: 10px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyYPIT5IiMgmHQPTKrAN3KPhQYLaYYySA_eWcgdGDm_jrl61AV3cNE5PxP0nOYeVPuBP4&usqp=CAU" alt="Web" height="50" />  
 <img style="margin: 10px" src="https://icon-library.com/images/android-mobile-icon/android-mobile-icon-29.jpg" alt="IOS-Android" height="45" />  
 <img style="margin: 10px" src="https://toppng.com/uploads/preview/oogle-play-icon-app-store-icon-ios-11-icons-11562873026myjyxxfvpm.png" alt="Apple App Store" height="45" />  
@@ -93,12 +94,9 @@ Here are some ideas to get you started:
 <img style="margin: 10px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZZcC9FFlFDytwryOqdx84Afu3kwPziWBfUw&usqp=CAU" alt="Node.js" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />
 <img style="margin: 10px" src="https://w7.pngwing.com/pngs/1007/564/png-transparent-java-script-logo-javascript-web-development-logo-script-text-computer-programming-internet-thumbnail.png" alt="JavaScript" height="50" />  
+<img style="margin: 10px" src="https://icon.icepanel.io/Technology/svg/Next.js.svg" alt="NestJS" height="45" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".Net" height="50" />  
-<img style="margin: 10px" src="https://www.aalpha.net/wp-content/uploads/2023/05/nest-js-logo.png" alt="NestJS" height="50" />  
-
-
-
 <img style="margin: 10px" src="https://graphql.org/img/brand/logos/logo-stacked.svg" alt="GraphQL" height="50" />  
 <img style="margin: 10px" src="https://w7.pngwing.com/pngs/877/217/png-transparent-postman-logo-tech-companies.png" alt="Postman" height="50" />  
 <img style="margin: 10px" src="https://d1.awsstatic.com/asset-repository/products/amazon-rds/1024px-MySQL.ff87215b43fd7292af172e2a5d9b844217262571.png" alt="MySQL" height="40" />  
@@ -108,9 +106,7 @@ Here are some ideas to get you started:
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" />  
 <img style="margin: 10px" src="https://ih1.redbubble.net/image.404020079.1876/st,small,507x507-pad,600x600,f8f8f8.u7.jpg" alt="Jest" height="60" />  
 <img style="margin: 10px" src="https://mir-s3-cdn-cf.behance.net/projects/404/5baa8a153342817.Y3JvcCwxOTk5LDE1NjQsMCwyMTc.png" alt="Twilio" height="50" />
-
-<br>
-<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Stripe_Logo%2C_revised_2016.svg/360px-Stripe_Logo%2C_revised_2016.svg.png" alt="Stripe" height="60" />
+<img style="margin: 10px" src="https://www.svgrepo.com/show/331592/stripe-v2.svg" alt="Stripe" height="50" />
 
 </div>
 
@@ -119,7 +115,8 @@ Here are some ideas to get you started:
 
 
 ### DevOps  
-<div align="center">  
+<div align="center">
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
 <img style="margin: 10px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/GithubActions-Dark.svg" alt="GithubActions" height="50" />  
 <img style="margin: 10px" src="https://pngset.com/images/github-logo-label-text-symbol-transparent-png-2425199.png" alt="GitHub" height="50" />
@@ -128,13 +125,12 @@ Here are some ideas to get you started:
 <img style="margin: 10px" src="https://www.bdq.cloud/hs-fs/hubfs/Atlassian-vertical-blue@2x-rgb.png?width=401&height=446&name=Atlassian-vertical-blue@2x-rgb.png" alt="Atlassian" height="50" />  
 <img style="margin: 10px" src="https://www.netscout.com/sites/default/files/2022-02/17/images/cloud-lockup-logo-500px.png" alt="GCP" height="50" />  
 <img style="margin: 10px" src="https://1000logos.net/wp-content/uploads/2024/08/Vercel-Logo-768x432.png" alt="Vercel" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />
 <img style="margin: 10px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrxA3-gKr7IQIqgSFjY1krRnUYEUJ_iY9EPhv13vo0HBypSAF5AUm3x9HLTaFtWvBYoHs&usqp=CAU" alt="DigitalOcean" height="50" /> 
 <img style="margin: 10px" src="https://w7.pngwing.com/pngs/881/310/png-transparent-gitlab-original-wordmark-logo-icon-thumbnail.png" alt="Gitlab" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/elasticsearch.png" alt="Elasticsearch" height="50" /> 
   <img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/linode.svg" alt="Linode" height="40" /> 
 <br>
-<img style="margin: 10px" src="https://www.ssa.group/wp-content/uploads/2020/12/Group-3223-1.svg" height="70" /> 
+<img style="margin: 10px" src="https://www.ssa.group/wp-content/uploads/2020/12/Group-3223-1.svg" alt="CICD" height="70" /> 
 
 </div>
 
