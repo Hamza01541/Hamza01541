@@ -77,15 +77,15 @@ I enjoy solving engineering problems around **architecture, complex workflows, i
 
 </p>
 
-**APIs & Integrations**
+### APIs & Integrations
 
 `REST` · `GraphQL` · `WebSockets` · `Socket.IO` · `Stripe` · `Twilio` · `SendGrid` · `Mailgun` · `OAuth`
 
-**Testing & Automation**
+### Testing & Automation
 
 `Jest` · `Jasmine` · `Karma` · `Selenium` · `Playwright` · `Puppeteer`
 
-**UI, Maps & Visualization**
+### UI, Maps & Visualization
 
 `PrimeNG` · `Material UI` · `Bootstrap` · `Tailwind CSS` · `Highcharts` · `Chart.js` · `D3.js` · `Google Maps` · `Leaflet`
 
@@ -119,15 +119,15 @@ I've worked on mobile functionality involving **real-time communication, device 
 
 I work across the infrastructure needed to build, deploy, monitor, and operate production applications.
 
-**AWS**
+### AWS
 
 `EC2` · `Lambda` · `S3` · `API Gateway` · `SQS` · `DynamoDB` · `Cognito` · `CloudWatch` · `ECR`
 
-**Azure**
+### Azure
 
 `Azure` · `Azure Functions`
 
-**CI/CD & Infrastructure**
+### CI/CD & Infrastructure
 
 `Docker` · `GitHub Actions` · `Bitbucket Pipelines` · `CircleCI` · `Jenkins`
 
@@ -139,15 +139,15 @@ My cloud work includes **containerized applications, serverless services, automa
 
 AI is part of both the applications I build and my day-to-day engineering workflow.
 
-**AI & LLMs**
+### AI & LLMs
 
 `OpenAI` · `Claude` · `LLM APIs` · `RAG` · `LangChain` · `RASA`
 
-**AI Coding & Development**
+### AI Coding & Development
 
 `Codex` · `Claude Code` · `Lovable` · `AI-assisted Development`
 
-**Agents & Automation**
+### Agents & Automation
 
 `OpenClaw` · `AI Agents` · `n8n`
 
@@ -157,7 +157,7 @@ I use AI across **application development, coding, code review, retrieval/search
 
 ## 🔗 Full Stack, End to End
 
-```text id="7gznx5"
+```text id="u5rqva"
 Web / Mobile / API / AI / DevOps
               ↓
 React · Next.js · Angular · Ionic · Capacitor · React Native
@@ -175,78 +175,23 @@ AWS · Azure · Docker · CI/CD
 
 ---
 
-## 📌 Featured Repositories
+## 🌱 Beyond Code
 
-### 🔷 Angular
+When I'm away from the keyboard, I enjoy **road trips, exploring new places, and keeping up with emerging technology**.
 
-**[Angular PrimeNG Controls Demo](https://github.com/Hamza01541/Angular-PrimeNG-Controls-Demo)**  
-Reusable Angular UI components and PrimeNG implementations.
-
-### ⚛️ React
-
-**[React OMS](https://github.com/Hamza01541/React-OMS)**  
-React application demonstrating frontend application architecture.
-
-### 📱 Ionic / Capacitor
-
-**[Ionic Capacitor Mobile App](https://github.com/Hamza01541/Ionic-Capacitor-Mobile-App)**  
-Cross-platform mobile application using Ionic and Capacitor.
-
-### 🟢 Node.js
-
-**[Timevez NodeJS API](https://github.com/Hamza01541/Timevez-NodeJS-Api)**  
-REST API and backend implementation using Node.js.
-
-### 🔴 NestJS / GraphQL
-
-**[NestJS GraphQL API](https://github.com/Hamza01541/NestJS-GrapghQL-Api)**  
-GraphQL backend implementation using NestJS.
-
-### 📊 Data Visualization
-
-**[D3.js Charts](https://github.com/Hamza01541/D3.js-Charts)**  
-Interactive data visualization examples using D3.js.
-
-> Most of my professional development happens in private repositories. These public repositories are selected examples of technologies I've worked with.
-
----
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Hamza01541&show_icons=true&include_all_commits=true&hide_border=true&rank_icon=github" />
-
-<img height="165" src="https://streak-stats.demolab.com?user=Hamza01541&hide_border=true" />
-
-</div>
-
-### 🏆 Achievements
-
-<div align="center">
-
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Hamza01541&column=6&margin-w=10&margin-h=10&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-> My GitHub activity includes both public projects and contributions to private production repositories.
-
----
-
-## 💭 Beyond Code
-
-When I'm not working on software, I enjoy **road trips, exploring new technologies, and experimenting with new tools and ideas**.
-
-I'm particularly interested in where **full-stack engineering, mobile development, cloud infrastructure, automation, and AI** intersect.
+I'm always curious about better ways to build, automate, and solve problems whether that means experimenting with a new tool, exploring an idea, or learning something outside my usual stack.
 
 ---
 
 <div align="center">
 
-### Let's Connect
+### 🤝 Let's Connect
+
+I'm always open to **interesting projects, technical conversations, and opportunities to build something useful**.
+
+[![GitHub](https://img.shields.io/badge/GitHub-Hamza01541-181717?style=for-the-badge&logo=github)](https://github.com/Hamza01541)
+[![Email](https://img.shields.io/badge/Email-Let's_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Hamza01541@gmail.com)
 
 **Senior Full Stack Developer · 8+ Years of Experience**
-
-[GitHub](https://github.com/Hamza01541) · [Email](mailto:Hamza01541@gmail.com)
 
 </div>
