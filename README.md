@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-As a dedicated and results-oriented software developer with over 7 years of experience, I specialize in creating efficient, scalable, and user-centric solutions. I have extensive expertise in a wide range of technologies, including programming languages such as C#, JavaScript, and TypeScript. I am proficient in leveraging modern frameworks like React/Next, Angular, Node.js, Ionic, Aurelia, Loopback, Nest.js, and the .NET Framework to build robust applications. My focus is on writing clean, maintainable code while staying up-to-date with the latest industry trends to deliver high-quality software that drives business success.
+As a dedicated and results-oriented software developer with over 8 years of experience, I specialize in creating efficient, scalable, and user-centric solutions. I have extensive expertise in a wide range of technologies, including programming languages such as C#, JavaScript, and TypeScript. I am proficient in leveraging modern frameworks like React/Next, Angular, Node.js, Ionic, Aurelia, Loopback, Nest.js, and the .NET Framework to build robust applications. My focus is on writing clean, maintainable code while staying up-to-date with the latest industry trends to deliver high-quality software that drives business success.
 
 ## My expertise includes:
 
