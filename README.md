@@ -2,12 +2,12 @@
 
 # Hi, I'm Hamza Shahzad 👋
 
-### Senior Full Stack Developer
+### Senior Full Stack Developer · Web, Mobile, APIs, Cloud & AI
 
-**8+ years building Web, Mobile, API, Cloud & AI-powered applications**
+**8+ years shipping production software for SaaS, healthcare, automotive, payments, e‑commerce, telecom and real estate.**
 
-[![GitHub](https://img.shields.io/badge/GitHub-Hamza01541-181717?style=flat&logo=github)](https://github.com/Hamza01541)
 [![Email](https://img.shields.io/badge/Email-Hamza01541%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:Hamza01541@gmail.com)
+[![Upwork](https://img.shields.io/badge/Upwork-Hire_me-14A800?style=flat&logo=upwork&logoColor=white)](https://www.upwork.com/fl/~018777e30e743c2277)
 
 </div>
 
@@ -189,8 +189,8 @@ I'm always curious about better ways to build, automate, and solve problems whet
 
 I'm always open to **interesting projects, technical conversations, and opportunities to build something useful**.
 
-[![GitHub](https://img.shields.io/badge/GitHub-Hamza01541-181717?style=for-the-badge&logo=github)](https://github.com/Hamza01541)
 [![Email](https://img.shields.io/badge/Email-Let's_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Hamza01541@gmail.com)
+[![Upwork](https://img.shields.io/badge/Upwork-Hire_Me-14A800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/fl/~018777e30e743c2277)
 
 **Senior Full Stack Developer · 8+ Years of Experience**
 
