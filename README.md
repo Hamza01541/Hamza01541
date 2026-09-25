@@ -121,7 +121,7 @@ I work across the infrastructure needed to build, deploy, monitor, and operate p
 
 ### AWS
 
-`EC2` · `Lambda` · `S3` · `API Gateway` · `SQS` · `DynamoDB` · `Cognito` · `CloudWatch` · `ECR`
+`EC2` · `Lambda` · `S3` · `API Gateway` · `SQS` · `DynamoDB` · `Cognito` · `CloudWatch` · `ECR` · `SAM`
 
 ### Azure
 
@@ -157,7 +157,7 @@ I use AI across **application development, coding, code review, retrieval/search
 
 ## 🔗 Full Stack, End to End
 
-```text id="u5rqva"
+```text
 Web / Mobile / API / AI / DevOps
               ↓
 React · Next.js · Angular · Ionic · Capacitor · React Native
@@ -168,7 +168,7 @@ Node.js · NestJS · Express · C#/.NET
               ↓
 MongoDB · PostgreSQL · SQL Server · Redis
               ↓
-OpenAI · Claude · RAG · LangChain · AI Agents
+OpenAI · Claude · RAG · LangChain · OpenClaw · AI Agents
               ↓
 AWS · Azure · Docker · CI/CD
 ```
